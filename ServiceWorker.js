@@ -1,9 +1,9 @@
 const cacheName = "AruanaEstudio-MiniGames-1.0";
 const contentToCache = [
-    "Build/f6a881a0e80cb02d40c8b23c84272ec3.loader.js",
+    "Build/034c16847400809a51c82ea76604f8ef.loader.js",
     "Build/61100263d9916275ebf3d1908c158bb5.framework.js",
-    "Build/9710ac7ca42e99906ddcc2d4a488c637.data",
-    "Build/5ef08b5ae7a0e91e95c4a791bf054546.wasm",
+    "Build/124cd3a4aad29467931ac27a936762b9.data",
+    "Build/ffb90e3ce3b984fa668aff17e1ef93bb.wasm",
     "TemplateData/style.css"
 
 ];
